@@ -1,1 +1,3 @@
-my
+When would you want to use a remote repository rather than keeping all your work local?
+
+When working on a team or when the local terminal may be temporary or in case it may be destroyed.  Also, working from a public remote repo is public, so there that.
